@@ -1,7 +1,5 @@
 # Proyecto ETL:
 
-**Base de datos:** mega_store_db
-
 **Sistema de base de datos:** postgreSQL
 
 **Herramienta de extracción:** Python (psycopg2)
