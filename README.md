@@ -1,21 +1,22 @@
-# Proyecto ETL:
+# ***Proyecto ETL:***
 
-- ## **Sistema de base de datos:** postgreSQL
+- ## **Sistema de base de datos:**
+  ### postgreSQL
 
 - ## **Herramienta de extracción:**
   ### Python (psycopg2)
 
 - ## **Herramienta de limpieza de datos:**
-  ### detección de null values y outliers mediante librería Pandas
+  ### Detección de null values y outliers mediante librería Pandas
 
 - ## **Herramienta de análisis estadístico:**
-  ### librería Matplolib
+  ### Librería Matplolib
 
 - ## **Herramienta de carga:**
-  ### se carga información a archivo Microsoft Excel
+  ### Se carga información a archivo Microsoft Excel
 
-Espero que disfruten de este proyecto.
+### Espero que disfruten de este proyecto.
 
-Saludos cordiales.
+### Saludos cordiales.
 
-ELLT
+### **ELLT**
